@@ -14,4 +14,3 @@ código de país 593 y el celular sin el 0 inicial (ej. 0991234567 → 593991234
 1. Crea un repositorio nuevo en GitHub (`insurehub-landing`) y sube el contenido de esta carpeta.
 2. En Cloudflare: Workers y Pages → Crear → Importar un repositorio → elige `insurehub-landing`. No hace falta comando de compilación; usa el `wrangler.jsonc` incluido.
 3. Cuando compres insurehub.ec: en el proyecto, Configuración → Dominios → agrega `insurehub.ec` y `www.insurehub.ec`.
- 
